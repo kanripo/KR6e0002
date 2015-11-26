@@ -1,12 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:53:13.634090
-#+TITLE: 華嚴遊意
-#+PROPERTY: CBETA_ID T35n1731
-#+PROPERTY: ID KR6e0002
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1731
-#+PROPERTY: VOL 35
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@HARA
+#+TITLE: 華嚴遊意 / T@HARA
+#+DATE: 2015-11-26 14:08:38.758216
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
+ |     T@JIA|【大→甲】   |
 
-<pb:KR6e0002_T_000-0001a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0002_001.txt][華嚴遊意 1]]
